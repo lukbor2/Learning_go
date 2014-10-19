@@ -1,0 +1,2 @@
+This is test2.txt
+Second line of test2.txt
