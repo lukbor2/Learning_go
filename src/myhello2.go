@@ -4,6 +4,4 @@ package main
 
 import ("fmt")
 
-func main(){
-    fmt.Printf("Hello Cloud9 Go")
-}
+func main(){fmt.Printf("Hello Cloud9 Go")}
